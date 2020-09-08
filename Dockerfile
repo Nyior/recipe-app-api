@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Nyior Clement
+LABEL naintainer Nyior Clement
 
 ENV PYTHONUNBUFFERED 1
 
